@@ -7,27 +7,27 @@ const price = [
     },
     {
         "_id": 1,
-        "name": "$0 to $199",
-        "array": [0, 199]
+        "name": "Rs.0 to Rs.499",
+        "array": [0, 499]
     },
     {
         "_id": 2,
-        "name": "$200 to $249",
-        "array": [200, 249]
+        "name": "Rs.500 to Rs.699",
+        "array": [200, 699]
     },
     {
         "_id": 3,
-        "name": "$250 to $279",
-        "array": [250, 279]
+        "name": "Rs.700 to Rs.999",
+        "array": [700, 999]
     },
     {
         "_id": 4,
-        "name": "$280 to $299",
+        "name": "Rs.999 to Rs.1499",
         "array": [280, 299]
     },
     {
         "_id": 5,
-        "name": "More than $300",
+        "name": "More than Rs.1500",
         "array": [300, 1500000]
     }
 ]
