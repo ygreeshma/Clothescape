@@ -37,32 +37,17 @@ const price = [
 const categories = [
     {
         "_id": 1,
-        "name": "Women's Tops"
+        "name": "Men"
     },
     {
         "_id": 2,
-        "name": "Mens's tops"
+        "name": "Women"
     },
     {
         "_id": 3,
-        "name": "Skirts"
-    },
-    {
-        "_id": 4,
-        "name": "Women's pants"
-    },
-    {
-        "_id": 5,
-        "name": "Men's pants"
-    },
-    {
-        "_id": 6,
         "name": "Kids"
-    },
-    {
-        "_id": 7,
-        "name": "Shorts"
     }
+   
 ]
 
 export {
