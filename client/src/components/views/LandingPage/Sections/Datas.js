@@ -1,4 +1,5 @@
 
+
 const price = [
     {
         "_id": 0,
@@ -13,7 +14,7 @@ const price = [
     {
         "_id": 2,
         "name": "Rs.500 to Rs.699",
-        "array": [200, 699]
+        "array": [500, 699]
     },
     {
         "_id": 3,
@@ -23,12 +24,12 @@ const price = [
     {
         "_id": 4,
         "name": "Rs.999 to Rs.1499",
-        "array": [280, 299]
+        "array": [999, 1499]
     },
     {
         "_id": 5,
         "name": "More than Rs.1500",
-        "array": [300, 1500000]
+        "array": [1500, 1500000]
     }
 ]
 
